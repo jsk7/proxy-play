@@ -1,0 +1,9 @@
+{
+  "client": {
+    "max_requests": 500,
+    "load": {
+      "max_requests_per_time": 5,
+      "time": 10000
+    }
+  }
+}

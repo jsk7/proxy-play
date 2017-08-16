@@ -1,0 +1,21 @@
+{
+  "name": "proxy-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "moment": "^2.18.1",
+    "node-http-proxy": "^0.2.3",
+    "semver": "^5.4.1"
+  },
+  "devDependencies": {
+    "ipaddr.js": "^1.4.0"
+  }
+}
